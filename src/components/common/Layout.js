@@ -54,8 +54,8 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                             </div>
                             { isHome ?
                                 <div className="site-banner">
-                                    <h1 className="site-banner-title">{site.title}</h1>
-                                    <p className="site-banner-desc">{site.description}</p>
+                                    <h1 className="site-banner-title">Karla Agraz</h1>
+                                    <p className="site-banner-desc">Historias, ideas y código</p>
                                 </div> :
                                 null}
                             <nav className="site-nav">
